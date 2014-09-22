@@ -1,0 +1,8 @@
+# Compiled Source
+*.exe
+
+# Code::Blocks files
+*.o
+*.cpb
+*.depend
+*.layout
