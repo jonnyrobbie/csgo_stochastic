@@ -3,6 +3,6 @@
 
 # Code::Blocks files
 *.o
-*.cpb
+*.cbp
 *.depend
 *.layout
