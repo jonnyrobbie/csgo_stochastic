@@ -7,7 +7,7 @@ When you run the program:
 
 **Enter the number of games to simulate (1..2147483647), 0 to quit:** I recommend somewhere around 1000000 tries, but it depends on the speed of your computer.
 
-**Enter the probability of Team A winning rounds with their skill (0..1):** You probably want to start with equally strong teams, so 0.5 should be good. Be careful that this means the probability of team winning a single round, so the resulting probability of winning an entire match is much higher.
+**Enter the probability of Team A winning rounds with their skill (0..1):** You probably want to start with equally strong teams, so 0.5 should be good. Be careful that this is the probability of team winning a single round, so if you have anything other than 0.5, the resulting probability of winning an entire match is much more pronnounced.
 
 **Enter the probability of team winning rounds on the side Team A started given the map imbalance (0..1):** Some maps in CS are not balanced. For example if you want to simulate a game on a de_nuke, you might want to enter something close to 0.7 (or 0.3 - depending on which side you want your team to start).
 
